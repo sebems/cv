@@ -1,16 +1,16 @@
 body {
-  background-color: #32292f;
+  background-color: #2B2A33;
   color: snow;
   font-family: "Josefin Sans", "Roboto", sans-serif;
 }
 
 a:link {
-  color: salmon;
+  color: snow;
 }
 
-a:visited {
+/* a:visited {
   color: #BB0A21;
-}
+} */
 
 td {
   color: snow;
@@ -30,5 +30,6 @@ hr {
   #7C90A0
   #F9E0D9
   #BB0A21  -- clicked links
+  #2B2A33
 
 */

@@ -4,8 +4,21 @@ body {
   font-family: "Josefin Sans", "Roboto", sans-serif;
 }
 
-a:link {
-  color: snow;
+.btn{
+	border: none;
+}
+
+.btn-outline-primary  {
+  margin-right: 50px;
+}
+
+.card {
+  display: inline-block;
+  color:#2B2A33;
+}
+
+.card-body {
+  background-color: #7C90A0;
 }
 
 /* a:visited {
@@ -27,6 +40,7 @@ hr {
 #contacts {
   padding: 200;
 }
+
 /* 
   Remaining colors
 
